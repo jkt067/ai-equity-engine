@@ -28,7 +28,7 @@ We believe every student deserves access to high-quality learning tools, regardl
 ## 🚀 Try it yourself
 1. Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-equity-engine.git
+git clone https://github.com/jkt067/ai-equity-engine.git
 Install dependencies:
 
 bash
@@ -47,3 +47,6 @@ bash
 Copy
 Edit
 python main.py
+yaml
+Copy
+Edit
