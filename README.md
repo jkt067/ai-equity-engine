@@ -29,3 +29,22 @@ We believe every student deserves access to high-quality learning tools, regardl
 1. Clone this repo:
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-equity-engine.git
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add secrets:
+
+OPENAI_API_KEY — your OpenAI key
+
+GOOGLE_SHEETS_KEY — your Google service account JSON
+
+Run:
+
+bash
+Copy
+Edit
+python main.py
+Update README.md with full installation and usage guide
