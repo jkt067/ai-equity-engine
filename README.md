@@ -27,8 +27,5 @@ We believe every student deserves access to high-quality learning tools, regardl
 
 ## 🚀 Try it yourself
 1. Clone this repo:
-```git clone https://github.com/jkt067/ai-equity-engine.git
-pip install -r requirements.txt
-OPENAI_API_KEY — your OpenAI key
-GOOGLE_SHEETS_KEY — your Google service account JSON
-python main.py
+```bash
+git clone https://github.com/jkt067/ai-equity-engine.git
