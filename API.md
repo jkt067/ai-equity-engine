@@ -26,22 +26,3 @@ Example: `https://your-app-url.com`
 {
   "status": "running"
 }
-{
-  "question": "What is photosynthesis?",
-  "subject": "Science"
-}
-{
-  "answer": "Photosynthesis is the process by which green plants use sunlight to make food from carbon dioxide and water."
-}
-{
-  "error": "No question provided"
-}
-{
-  "error": "Detailed error message explaining what went wrong"
-}
-curl -X POST https://your-app-url.com/ask \
--H "Content-Type: application/json" \
--d '{"question":"What is the Pythagorean theorem?","subject":"Math"}'
-{
-  "answer": "The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides."
-}
