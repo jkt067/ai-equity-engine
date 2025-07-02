@@ -29,42 +29,47 @@ We believe every student deserves access to high-quality learning tools, regardl
 1. Clone this repo:
 ```bash
 git clone https://github.com/jkt067/ai-equity-engine.git
+```
 
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
-Add secrets:
+```
 
+3. Add secrets:
+```
 OPENAI_API_KEY — your OpenAI key
-
 GOOGLE_SHEETS_KEY — your Google service account JSON
+```
 
-Run:
-
-
+4. Run the app:
+```bash
 python main.py
-📚 API Documentation
-See: API.md
+```
 
-📊 How we measure impact
-Number of questions answered
+---
 
-Subject areas covered
+## 📊 How we measure impact
+- Number of questions answered
+- Subject areas covered
+- Answer lengths and richness
+- Pilot program results with real students
 
-Answer lengths and richness
+---
 
-Pilot program results with real students
+## 🧩 Next steps
+- Build an accessible, mobile-friendly frontend
+- Add personalized learning paths & teacher dashboards
+- Launch pilot program with local schools or nonprofits
+- Research paper on AI tutoring & equity impact
 
-🧩 Next steps
-Build an accessible, mobile-friendly frontend
+---
 
-Add personalized learning paths & teacher dashboards
-
-Launch pilot program with local schools or nonprofits
-
-Research paper on AI tutoring & equity impact
-
-❤️ Contributing & collaboration
-Open to mentors, educators, and developers who share our mission.
+## ❤️ Contributing & collaboration
+Open to mentors, educators, and developers who share our mission.  
 Please open an issue or pull request!
 
-📜 License
+---
+
+## 📜 License
 MIT License — open and free to use.
