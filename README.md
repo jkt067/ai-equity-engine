@@ -47,4 +47,3 @@ bash
 Copy
 Edit
 python main.py
-Update README.md with full installation and usage guide
